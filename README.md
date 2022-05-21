@@ -1,1 +1,1 @@
-# -yandex-praktikum-data-science-projects
+# yandex-praktikum-data-science-projects
